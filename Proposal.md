@@ -1,8 +1,13 @@
-Project Carboard
+Project Cardboard
 
-Concept:
-    Your friend texted you saying he made quote, "The sweetest fort you have ever seen you gotta come over". Unfortunately you had to study for your exams and didn't make it over. It's been a few days and you haven't heard from him since... You head over there to check up on him, finding his fort. The problem is the fort seems bigger on the inside then it is on the outside, with no sign of your friend anywhere, but something is calling you into the fort...
+Overview:
+    Based on a typical FPS horror game this will center around a cardboard fort and the contents within. The is to be extremely stylized as the environment will be created to emulate the inside of an elaburate fort, consisting of cardboard elements. With a goal of also applying a filter of sorts to emulate VHS or a sort of lower resolution effect. Ammo will also be extremely limited and will consist of potatos found around the fort and weapons that would be able to fire such ammuniton. 
+
+Pitch:
+    You find yourself trapped inside the worlds creepiest Cardboard Fort, armed with a slingshot and what little Russet Potatos you find growing within, Can you save your friend?
 
 ![Inspiration](Inspiration.jpg)
 
 ![Ideas](Ideas.jpg)
+
+![alt text](<Playspace WIP.jpg>)
